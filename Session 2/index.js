@@ -1,21 +1,13 @@
 //Bài 1
 console.log("1.var và const đều để khai báo biến ");
 console.log("2. let và var giống nhau ngoại trừ phạm vi hoạt của chúng");
-console.log(
-  "var có tầm hoạt đồng rộng hơn (cả bên ngoài scope đã khai báo) còn let thì chỉ hoạt động bên trong scope đã khai báo"
-);
-console.log(
-  "3. Khi gán giá trị cho const thì sẽ không thể thay đổi đc giá trị đó nữa còn let thì có thể thay đổi  "
-);
-console.log(
-  "4. let: khi cần code dễ đọc và sự chính xác \n const: sử dụng khi muốn cố định giá trị biến "
-);
+console.log("var có tầm hoạt đồng rộng hơn (cả bên ngoài scope đã khai báo) còn let thì chỉ hoạt động bên trong scope đã khai báo");
+console.log("3. Khi gán giá trị cho const thì sẽ không thể thay đổi đc giá trị đó nữa còn let thì có thể thay đổi");
+console.log("4. let: khi cần code dễ đọc và sự chính xác, const: sử dụng khi muốn cố định giá trị biến");
+
 //Bài 2
 console.log("1. Boolean là phép chỉ có 2 giá trị đúng hoặc sai");
-console.log(
-  "2. Thứ tạo ra boolean thường là các đoạn mã khi sử dụng lệnh if hoặc vòng lặp for"
-);
-console.log("");
+console.log("2. Thứ tạo ra boolean thường là các đoạn mã khi sử dụng lệnh if hoặc vòng lặp for");
 
 // Bài 3
 console.log("a. ");
