@@ -1,0 +1,14 @@
+a{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background:wheat;
+    
+    
+    text-decoration-color: green ;
+    
+    line-height: 100px;
+    text-align: center;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }

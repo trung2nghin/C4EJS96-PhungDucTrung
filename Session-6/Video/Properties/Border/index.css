@@ -1,0 +1,12 @@
+div{
+    width: 200px;
+    height:200px;
+    background:wheat;
+    font-size:30px;
+    text-align:center;
+    line-height:200px;
+    /*  Insert code bellow  */
+    border: 3px solid black;
+    border-color: blue;
+    border-radius: 20px;
+  }
