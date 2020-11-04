@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    width: 100%;
+    background-color: firebrick;
+    color: white;
+}
+
+#LuckyNumber{
+    text-align: center;
+    width: 22%;
+    background-color:wheat;
+
+}
+
+#btn_roll{
+    background-color: red;
+}
+
